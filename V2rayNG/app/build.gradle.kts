@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.v2ray.ang"
+        applicationId = "com.xray.ang"
         minSdk = 21
         targetSdk = 35
         versionCode = 604
